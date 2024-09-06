@@ -1,0 +1,5 @@
+# comment starts by writing #
+it is using to understand the logic of that line
+it is very use full of information
+" " " -it is wrong method to represent comment
+"""-it is used for documentation
