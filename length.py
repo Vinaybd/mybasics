@@ -15,3 +15,4 @@ phone_number = phone_number.count('-')
 phone_number = phone_number.replace("-"," ")
 print(name)
 print(phone_number)
+# i hve uncommented all if u want to execute try one by one while commenting other
